@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "title": "Sentences of the Day",
+  "sentences": [
+    {
+      "id": 1,
+      "translated": "On which day of the week was your mother’s birthday this year?",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "今年、",
+          "kana": "ことし",
+          "romaji": "kotoshi",
+          "meaning": "this year"
+        },
+        {
+          "id": 2,
+          "name": "あなたの",
+          "kana": "あなたの",
+          "romaji": "anata no",
+          "meaning": "your"
+        },
+        {
+          "id": 3,
+          "name": "おかあさんの",
+          "kana": "おかあさんの",
+          "romaji": "okaasan no",
+          "meaning": "mother's"
+        },
+        {
+          "id": 4,
+          "name": "誕生日わ",
+          "kana": "たんじょうびわ",
+          "romaji": "tanjoubi wa",
+          "meaning": "as for her birthday"
+        },
+        {
+          "id": 5,
+          "name": "何曜日",
+          "kana": "なにょうび",
+          "romaji": "nani youbi",
+          "meaning": "which day of the week"
+        },
+        {
+          "id": 6,
+          "name": "ですたか。",
+          "kana": "ですたか。",
+          "romaji": "desutaka",
+          "meaning": "is it?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "translated": "Do you speak English?",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "えいごを",
+          "kana": "えいごを",
+          "romaji": "eigo o",
+          "meaning": "English"
+        },
+        {
+          "id": 2,
+          "name": "はなせ",
+          "kana": "はなせ",
+          "romaji": "hanase",
+          "meaning": "speak"
+        },
+        {
+          "id": 3,
+          "name": "ますか。",
+          "kana": "ますか。",
+          "romaji": "masu ka",
+          "meaning": "do you?"
+        }
+      ]
+    }
+  ]
+}
