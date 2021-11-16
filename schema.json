@@ -10,7 +10,14 @@
       "type": "string",
       "default": null
     },
-    
+    "level": {
+      "type": "string",
+      "default": null
+    },
+    "readTime": {
+      "type": "string",
+      "default": null
+    },
     "sentences": {
       "type": "array",
       "format": "table",
