@@ -76,6 +76,33 @@
           "meaning": "do you?"
         }
       ]
+    },
+    {
+      "id": 3,
+      "translated": "Where is this?/Where am I?",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "ここは",
+          "kana": "ここは",
+          "romaji": "Koko wa",
+          "meaning": "as for this"
+        },
+        {
+          "id": 2,
+          "name": "どこ",
+          "kana": "どこ",
+          "romaji": "doko",
+          "meaning": "where"
+        },
+        {
+          "id": 3,
+          "name": "ですか。",
+          "kana": "ですか。",
+          "romaji": "desu ka",
+          "meaning": "is it?"
+        }
+      ]
     }
   ]
 }
