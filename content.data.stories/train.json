@@ -1,81 +1,95 @@
 {
-  "id": 2,
+  "id": 1,
   "title": "電車 - Train",
   "level": "N5",
-  "readTime": "5 min",
+  "readTime": "15 min",
   "sentences": [
     {
       "id": 1,
-      "translated": "On which day of the week was your mother’s birthday this year?",
+      "translated": "Ayako rides trains every day.",
       "morphs": [
         {
           "id": 1,
-          "name": "今年、",
-          "kana": "ことし",
-          "romaji": "kotoshi",
-          "meaning": "this year"
+          "name": "アヤコは",
+          "kana": "アヤコわ",
+          "romaji": "Ayako wa",
+          "meaning": "as for Ayako"
         },
         {
           "id": 2,
-          "name": "あなたの",
-          "kana": "あなたの",
-          "romaji": "anata no",
-          "meaning": "your"
+          "name": "毎日",
+          "kana": "まいにち",
+          "romaji": "mainichi",
+          "meaning": "everyday"
         },
         {
           "id": 3,
-          "name": "おかあさんの",
-          "kana": "おかあさんの",
-          "romaji": "okaasan no",
-          "meaning": "mother's"
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "trains"
         },
         {
           "id": 4,
-          "name": "誕生日わ",
-          "kana": "たんじょうびわ",
-          "romaji": "tanjoubi wa",
-          "meaning": "as for her birthday"
-        },
-        {
-          "id": 5,
-          "name": "何曜日",
-          "kana": "なにょうび",
-          "romaji": "nani youbi",
-          "meaning": "which day of the week"
-        },
-        {
-          "id": 6,
-          "name": "ですたか。",
-          "kana": "ですたか。",
-          "romaji": "desutaka",
-          "meaning": "is it?"
+          "name": "のります",
+          "kana": "のります",
+          "romaji": "nori masu",
+          "meaning": "to ride"
         }
       ]
     },
     {
       "id": 2,
-      "translated": "Do you speak English?",
+      "translated": "When she goes to work, goes shopping, meets with friends, goes to an English-converstaion lesson, or goes to the movies, she rides trains.",
       "morphs": [
         {
           "id": 1,
-          "name": "えいごを",
-          "kana": "えいごを",
-          "romaji": "eigo o",
-          "meaning": "English"
+          "name": "仕事に",
+          "kana": "しごとに",
+          "romaji": "shigoto ni",
+          "meaning": "to work"
         },
         {
           "id": 2,
-          "name": "はなせ",
-          "kana": "はなせ",
-          "romaji": "hanase",
-          "meaning": "speak"
+          "name": "行くとき",
+          "kana": "いくとき",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
         },
         {
           "id": 3,
-          "name": "ますか。",
-          "kana": "ますか。",
-          "romaji": "masu ka",
-          "meaning": "do you?"
+          "name": "買い物に",
+          "kana": "かいものに",
+          "romaji": "kai mono ni",
+          "meaning": "to shop"
+        },
+        {
+          "id": 4,
+          "name": "行くとき",
+          "kana": "いくとき",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 5,
+          "name": "友達に",
+          "kana": "ともだちに",
+          "romaji": "tomodachi ni",
+          "meaning": "to friends"
+        },
+        {
+          "id": 6,
+          "name": "会うとき",
+          "kana": "あうとき",
+          "romaji": "au toki",
+          "meaning": "when meet with"
+        },
+        {
+          "id": 7,
+          "name": "英会話のレッスン",
+          "kana": "えいかいわのレッスン",
+          "romaji": "eikaiwa no reesun",
+          "meaning": "English-conversation lesson"
         }
       ]
     }
