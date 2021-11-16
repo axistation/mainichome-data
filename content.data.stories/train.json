@@ -51,8 +51,8 @@
         },
         {
           "id": 2,
-          "name": "行くとき",
-          "kana": "いくとき",
+          "name": "行くとき、",
+          "kana": "いくとき、",
           "romaji": "iku toki",
           "meaning": "when she goes"
         },
@@ -65,8 +65,8 @@
         },
         {
           "id": 4,
-          "name": "行くとき",
-          "kana": "いくとき",
+          "name": "行くとき、",
+          "kana": "いくとき、",
           "romaji": "iku toki",
           "meaning": "when she goes"
         },
@@ -86,10 +86,45 @@
         },
         {
           "id": 7,
-          "name": "英会話のレッスン",
-          "kana": "えいかいわのレッスン",
-          "romaji": "eikaiwa no reesun",
-          "meaning": "English-conversation lesson"
+          "name": "英会話のレッスンに",
+          "kana": "えいかいわのレッスンに",
+          "romaji": "eikaiwa no reesun ni",
+          "meaning": "to English-conversation lesson"
+        },
+        {
+          "id": 8,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 9,
+          "name": "映画を見に",
+          "kana": "えいがをみに",
+          "romaji": "eiga wo mi ni",
+          "meaning": "to the movies"
+        },
+        {
+          "id": 10,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 11,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "trains"
+        },
+        {
+          "id": 12,
+          "name": "乗ります。",
+          "kana": "のります。",
+          "romaji": "nori masu",
+          "meaning": "to ride"
         }
       ]
     }
