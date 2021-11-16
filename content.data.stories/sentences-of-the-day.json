@@ -1,6 +1,8 @@
 {
   "id": 1,
-  "title": "Sentences of the Day",
+  "title": "今日の文章 - Sentences of the Day",
+  "level": "Any",
+  "readTime": "5 min",
   "sentences": [
     {
       "id": 1,
