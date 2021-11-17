@@ -1,0 +1,49 @@
+{
+  "id": 2,
+  "title": "北風と太陽 - The North Wind and the Sun",
+  "level": "N4",
+  "readTime": "15",
+  "sentences": [
+    {
+      "id": 1,
+      "translated": "“I’m stronger.” “No, I’m stronger.”",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "おれの",
+          "kana": "おれの",
+          "romaji": "ore no",
+          "meaning": "I'm"
+        },
+        {
+          "id": 2,
+          "name": "方が強い",
+          "kana": "ほうがつよい",
+          "romaji": "houga tsuyoi",
+          "meaning": "stronger"
+        },
+        {
+          "id": 3,
+          "name": "いいや",
+          "kana": "いいや",
+          "romaji": "iiya",
+          "meaning": "no"
+        },
+        {
+          "id": 4,
+          "name": "おれの",
+          "kana": "おれの",
+          "romaji": "ore no",
+          "meaning": "I'm"
+        },
+        {
+          "id": 5,
+          "name": "方が強い",
+          "kana": "ほうがつよい",
+          "romaji": "houga tsuyoi",
+          "meaning": "stronger"
+        }
+      ]
+    }
+  ]
+}
