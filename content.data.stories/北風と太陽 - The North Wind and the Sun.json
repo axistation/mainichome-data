@@ -10,14 +10,14 @@
       "morphs": [
         {
           "id": 1,
-          "name": "おれの",
+          "name": "「おれの",
           "kana": "おれの",
           "romaji": "ore no",
           "meaning": "I'm"
         },
         {
           "id": 2,
-          "name": "方が強い",
+          "name": "方が強い。」",
           "kana": "ほうがつよい",
           "romaji": "houga tsuyoi",
           "meaning": "stronger"
@@ -31,14 +31,14 @@
         },
         {
           "id": 4,
-          "name": "おれの",
+          "name": "「おれの",
           "kana": "おれの",
           "romaji": "ore no",
           "meaning": "I'm"
         },
         {
           "id": 5,
-          "name": "方が強い",
+          "name": "方が強い。」",
           "kana": "ほうがつよい",
           "romaji": "houga tsuyoi",
           "meaning": "stronger"
