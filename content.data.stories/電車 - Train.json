@@ -127,6 +127,366 @@
           "meaning": "to ride"
         }
       ]
+    },
+    {
+      "id": 3,
+      "translated": "When she goes to work, goes shopping, meets with friends, goes to an English-converstaion lesson, or goes to the movies, she rides trains.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "仕事に",
+          "kana": "しごとに",
+          "romaji": "shigoto ni",
+          "meaning": "to work"
+        },
+        {
+          "id": 2,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 3,
+          "name": "買い物に",
+          "kana": "かいものに",
+          "romaji": "kai mono ni",
+          "meaning": "to shop"
+        },
+        {
+          "id": 4,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 5,
+          "name": "友達に",
+          "kana": "ともだちに",
+          "romaji": "tomodachi ni",
+          "meaning": "to friends"
+        },
+        {
+          "id": 6,
+          "name": "会うとき",
+          "kana": "あうとき",
+          "romaji": "au toki",
+          "meaning": "when meet with"
+        },
+        {
+          "id": 7,
+          "name": "英会話のレッスンに",
+          "kana": "えいかいわのレッスンに",
+          "romaji": "eikaiwa no reesun ni",
+          "meaning": "to English-conversation lesson"
+        },
+        {
+          "id": 8,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 9,
+          "name": "映画を見に",
+          "kana": "えいがをみに",
+          "romaji": "eiga wo mi ni",
+          "meaning": "to the movies"
+        },
+        {
+          "id": 10,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 11,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "trains"
+        },
+        {
+          "id": 12,
+          "name": "乗ります。",
+          "kana": "のります。",
+          "romaji": "nori masu",
+          "meaning": "to ride"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "translated": "When she goes to work, goes shopping, meets with friends, goes to an English-converstaion lesson, or goes to the movies, she rides trains.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "仕事に",
+          "kana": "しごとに",
+          "romaji": "shigoto ni",
+          "meaning": "to work"
+        },
+        {
+          "id": 2,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 3,
+          "name": "買い物に",
+          "kana": "かいものに",
+          "romaji": "kai mono ni",
+          "meaning": "to shop"
+        },
+        {
+          "id": 4,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 5,
+          "name": "友達に",
+          "kana": "ともだちに",
+          "romaji": "tomodachi ni",
+          "meaning": "to friends"
+        },
+        {
+          "id": 6,
+          "name": "会うとき",
+          "kana": "あうとき",
+          "romaji": "au toki",
+          "meaning": "when meet with"
+        },
+        {
+          "id": 7,
+          "name": "英会話のレッスンに",
+          "kana": "えいかいわのレッスンに",
+          "romaji": "eikaiwa no reesun ni",
+          "meaning": "to English-conversation lesson"
+        },
+        {
+          "id": 8,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 9,
+          "name": "映画を見に",
+          "kana": "えいがをみに",
+          "romaji": "eiga wo mi ni",
+          "meaning": "to the movies"
+        },
+        {
+          "id": 10,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 11,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "trains"
+        },
+        {
+          "id": 12,
+          "name": "乗ります。",
+          "kana": "のります。",
+          "romaji": "nori masu",
+          "meaning": "to ride"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "translated": "When she goes to work, goes shopping, meets with friends, goes to an English-converstaion lesson, or goes to the movies, she rides trains.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "仕事に",
+          "kana": "しごとに",
+          "romaji": "shigoto ni",
+          "meaning": "to work"
+        },
+        {
+          "id": 2,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 3,
+          "name": "買い物に",
+          "kana": "かいものに",
+          "romaji": "kai mono ni",
+          "meaning": "to shop"
+        },
+        {
+          "id": 4,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 5,
+          "name": "友達に",
+          "kana": "ともだちに",
+          "romaji": "tomodachi ni",
+          "meaning": "to friends"
+        },
+        {
+          "id": 6,
+          "name": "会うとき",
+          "kana": "あうとき",
+          "romaji": "au toki",
+          "meaning": "when meet with"
+        },
+        {
+          "id": 7,
+          "name": "英会話のレッスンに",
+          "kana": "えいかいわのレッスンに",
+          "romaji": "eikaiwa no reesun ni",
+          "meaning": "to English-conversation lesson"
+        },
+        {
+          "id": 8,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 9,
+          "name": "映画を見に",
+          "kana": "えいがをみに",
+          "romaji": "eiga wo mi ni",
+          "meaning": "to the movies"
+        },
+        {
+          "id": 10,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 11,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "trains"
+        },
+        {
+          "id": 12,
+          "name": "乗ります。",
+          "kana": "のります。",
+          "romaji": "nori masu",
+          "meaning": "to ride"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "translated": "When she goes to work, goes shopping, meets with friends, goes to an English-converstaion lesson, or goes to the movies, she rides trains.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "仕事に",
+          "kana": "しごとに",
+          "romaji": "shigoto ni",
+          "meaning": "to work"
+        },
+        {
+          "id": 2,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 3,
+          "name": "買い物に",
+          "kana": "かいものに",
+          "romaji": "kai mono ni",
+          "meaning": "to shop"
+        },
+        {
+          "id": 4,
+          "name": "行くとき、",
+          "kana": "いくとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 5,
+          "name": "友達に",
+          "kana": "ともだちに",
+          "romaji": "tomodachi ni",
+          "meaning": "to friends"
+        },
+        {
+          "id": 6,
+          "name": "会うとき",
+          "kana": "あうとき",
+          "romaji": "au toki",
+          "meaning": "when meet with"
+        },
+        {
+          "id": 7,
+          "name": "英会話のレッスンに",
+          "kana": "えいかいわのレッスンに",
+          "romaji": "eikaiwa no reesun ni",
+          "meaning": "to English-conversation lesson"
+        },
+        {
+          "id": 8,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 9,
+          "name": "映画を見に",
+          "kana": "えいがをみに",
+          "romaji": "eiga wo mi ni",
+          "meaning": "to the movies"
+        },
+        {
+          "id": 10,
+          "name": "行くとき、",
+          "kana": "行くとき、",
+          "romaji": "iku toki",
+          "meaning": "when she goes"
+        },
+        {
+          "id": 11,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "trains"
+        },
+        {
+          "id": 12,
+          "name": "乗ります。",
+          "kana": "のります。",
+          "romaji": "nori masu",
+          "meaning": "to ride"
+        }
+      ]
     }
   ]
 }
