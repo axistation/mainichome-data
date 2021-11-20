@@ -265,6 +265,81 @@
           "meaning": "to ride"
         }
       ]
+    },
+    {
+      "id": 5,
+      "translated": "Whenever Ayako rides a train, there is something she always wonders about.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "アヤコは",
+          "kana": "アヤコは",
+          "romaji": "Ayako wa",
+          "meaning": "as for Ayako"
+        },
+        {
+          "id": 2,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "on train"
+        },
+        {
+          "id": 3,
+          "name": "乗るとき、",
+          "kana": "のるとき",
+          "romaji": "noru toki",
+          "meaning": "whenever ride"
+        },
+        {
+          "id": 4,
+          "name": "いつも",
+          "kana": "いつも",
+          "romaji": "itsumo",
+          "meaning": "always"
+        },
+        {
+          "id": 5,
+          "name": "不思議に思う",
+          "kana": "ふしぎにおもう",
+          "romaji": "fushigini omou",
+          "meaning": "wonders"
+        },
+        {
+          "id": 6,
+          "name": "ことがあります。",
+          "kana": "ことがあります。",
+          "romaji": "kotoga arimasu",
+          "meaning": "sometimes do"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "translated": "Where do these people come from and where do these people go?",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "この人達は、",
+          "kana": "このひとたちは",
+          "romaji": "kono hitotachi wa",
+          "meaning": "as for these people"
+        },
+        {
+          "id": 2,
+          "name": "どこから来てÔ、",
+          "kana": "どこからきて",
+          "romaji": "doko kara kite",
+          "meaning": "where come from"
+        },
+        {
+          "id": 3,
+          "name": "どこへ行くのかな？",
+          "kana": "どこへいくのかな？",
+          "romaji": "doko he ikuno kana",
+          "meaning": "where go to"
+        }
+      ]
     }
   ]
 }
