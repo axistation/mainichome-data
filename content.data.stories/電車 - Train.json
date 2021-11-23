@@ -497,6 +497,81 @@
           "meaning": "to go"
         }
       ]
+    },
+    {
+      "id": 11,
+      "translated": "Ayako slowly looked around in the train.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "アヤコは",
+          "kana": "アヤコは",
+          "romaji": "Ayako wa",
+          "meaning": "as for Ayako"
+        },
+        {
+          "id": 2,
+          "name": "ゆっくり",
+          "kana": "ゆっくり",
+          "romaji": "yukkuri",
+          "meaning": "slowly"
+        },
+        {
+          "id": 3,
+          "name": "電車の中を",
+          "kana": "でんしゃのなかを",
+          "romaji": "densha no naka wo",
+          "meaning": "in the train"
+        },
+        {
+          "id": 4,
+          "name": "見ました。",
+          "kana": "みました",
+          "romaji": "mi mashita",
+          "meaning": "looked around"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "translated": "Because it is a Sunday morning, there are not many people riding it.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "日曜日の朝",
+          "kana": "にちようびのあさ",
+          "romaji": "nichiyoubi no asa",
+          "meaning": "Sunday morning"
+        },
+        {
+          "id": 2,
+          "name": "なので、",
+          "kana": "なので",
+          "romaji": "nanode",
+          "meaning": "because"
+        },
+        {
+          "id": 3,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "on train"
+        },
+        {
+          "id": 4,
+          "name": "乗っている人は",
+          "kana": "のっているひとは",
+          "romaji": "notteiru hito wa",
+          "meaning": "as for the peiple riding it"
+        },
+        {
+          "id": 5,
+          "name": "少ないです。",
+          "kana": "すくないです",
+          "romaji": "sukunai desu",
+          "meaning": "there are few"
+        }
+      ]
     }
   ]
 }
