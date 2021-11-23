@@ -340,6 +340,163 @@
           "meaning": "where go to"
         }
       ]
+    },
+    {
+      "id": 7,
+      "translated": "Today is June 15th and it is a Sunday morning.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "今日は",
+          "kana": "きょうは",
+          "romaji": "kyou wa",
+          "meaning": "as for today"
+        },
+        {
+          "id": 2,
+          "name": "６月１５日、",
+          "kana": "6がつ15にち",
+          "romaji": "6 gatsu 15 nichi",
+          "meaning": "15th June"
+        },
+        {
+          "id": 3,
+          "name": "日曜日の朝",
+          "kana": "にちようびのあさ",
+          "romaji": "nichi youbi no asa",
+          "meaning": "Sunday morning"
+        },
+        {
+          "id": 4,
+          "name": "です。",
+          "kana": "です",
+          "romaji": "desu",
+          "meaning": "it is"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "translated": "Summer is just around the corner.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "もうすぐ",
+          "kana": "もうすぐ",
+          "romaji": "mousugu",
+          "meaning": "soon"
+        },
+        {
+          "id": 2,
+          "name": "夏",
+          "kana": "なつ",
+          "romaji": "natsu",
+          "meaning": "Summer"
+        },
+        {
+          "id": 3,
+          "name": "日曜日の朝",
+          "kana": "にちようびのあさ",
+          "romaji": "nichi youbi no asa",
+          "meaning": "Sunday morning"
+        },
+        {
+          "id": 4,
+          "name": "です。",
+          "kana": "です",
+          "romaji": "desu",
+          "meaning": "is"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "translated": "It is a nice day.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "とても",
+          "kana": "とても",
+          "romaji": "totemo",
+          "meaning": "very"
+        },
+        {
+          "id": 2,
+          "name": "いい",
+          "kana": "いい",
+          "romaji": "ii",
+          "meaning": "nice"
+        },
+        {
+          "id": 3,
+          "name": "天気",
+          "kana": "てんき",
+          "romaji": "denki",
+          "meaning": "weather"
+        },
+        {
+          "id": 4,
+          "name": "です。",
+          "kana": "です",
+          "romaji": "desu",
+          "meaning": "is"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "translated": "Today, Ayako takes the train and goes to see a new movie.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "今日",
+          "kana": "きょう",
+          "romaji": "kyou",
+          "meaning": "today"
+        },
+        {
+          "id": 2,
+          "name": "アヤコは",
+          "kana": "アヤコは",
+          "romaji": "Ayako wa",
+          "meaning": "as for Ayako"
+        },
+        {
+          "id": 3,
+          "name": "電車に",
+          "kana": "でんしゃに",
+          "romaji": "densha ni",
+          "meaning": "on train"
+        },
+        {
+          "id": 4,
+          "name": "乗って",
+          "kana": "のって",
+          "romaji": "no tssu de",
+          "meaning": "aboard"
+        },
+        {
+          "id": 5,
+          "name": "新しい映画を",
+          "kana": "あたらしいえいがを",
+          "romaji": "atarashi eiga wo",
+          "meaning": "new movie (wo marks object)"
+        },
+        {
+          "id": 6,
+          "name": "見に",
+          "kana": "みに",
+          "romaji": "mi ni",
+          "meaning": "to see"
+        },
+        {
+          "id": 7,
+          "name": "いきます。",
+          "kana": "いきます",
+          "romaji": "iki masu",
+          "meaning": "to go"
+        }
+      ]
     }
   ]
 }
