@@ -78,10 +78,38 @@
         },
         {
           "id": 2,
-          "name": "どちらの力が",
-          "kana": "どちらのちからが",
-          "romaji": "dochira no chikara ga",
-          "meaning": "as for whi"
+          "name": "どちらの力が強いか",
+          "kana": "どちらのちからがつよいか",
+          "romaji": "dochira no chikara ga tsuyoui ka",
+          "meaning": "as for which power is stronger"
+        },
+        {
+          "id": 3,
+          "name": "で",
+          "kana": "で",
+          "romaji": "de",
+          "meaning": "because"
+        },
+        {
+          "id": 4,
+          "name": "ケンカを",
+          "kana": "ケンカを",
+          "romaji": "kenka wo",
+          "meaning": "to fight"
+        },
+        {
+          "id": 5,
+          "name": "しているよう",
+          "kana": "しているよう",
+          "romaji": "shiteiruyou",
+          "meaning": "seems doing"
+        },
+        {
+          "id": 5,
+          "name": "です。",
+          "kana": "です",
+          "romaji": "desu",
+          "meaning": "to be"
         }
       ]
     }
