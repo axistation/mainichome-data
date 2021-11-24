@@ -64,6 +64,26 @@
           "meaning": "were heard"
         }
       ]
+    },
+    {
+      "id": 3,
+      "translated": "It seemed that they were arguing about which power was stronger.",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "二人は",
+          "kana": "ふたりは",
+          "romaji": "futari wa",
+          "meaning": "as for the two of them"
+        },
+        {
+          "id": 2,
+          "name": "どちらの力が",
+          "kana": "どちらのちからが",
+          "romaji": "dochira no chikara ga",
+          "meaning": "as for whi"
+        }
+      ]
     }
   ]
 }
