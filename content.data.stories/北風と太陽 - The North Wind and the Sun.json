@@ -44,6 +44,26 @@
           "meaning": "stronger"
         }
       ]
+    },
+    {
+      "id": 2,
+      "translated": "“I’m stronger.” “No, I’m stronger.”",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "北風と太陽の声が",
+          "kana": "きたかぜとたいようのこえが",
+          "romaji": "sata kaze to taiyou no koe ga",
+          "meaning": "As for the voice of the North Wind and the Sun"
+        },
+        {
+          "id": 2,
+          "name": "聞こえます。",
+          "kana": "きこえます",
+          "romaji": "kikoe masu",
+          "meaning": "were heard"
+        }
+      ]
     }
   ]
 }
