@@ -112,6 +112,75 @@
           "meaning": "to be"
         }
       ]
+    },
+    {
+      "id": 4,
+      "translated": "“Since you (the Sun) are energetic every day, it’s hot and everyone is troubled. When I blow the cool wind, everyone looks happy. I’m more helpful to them all.”",
+      "morphs": [
+        {
+          "id": 1,
+          "name": "太陽が",
+          "kana": "たいようが",
+          "romaji": "taiyou ga",
+          "meaning": "the Sun"
+        },
+        {
+          "id": 2,
+          "name": "毎日",
+          "kana": "まいにち",
+          "romaji": "mainichi",
+          "meaning": "everyday"
+        },
+        {
+          "id": 3,
+          "name": "で",
+          "kana": "で",
+          "romaji": "de",
+          "meaning": "because"
+        },
+        {
+          "id": 4,
+          "name": "元気だ",
+          "kana": "げんきだ",
+          "romaji": "genki da",
+          "meaning": "energetic/healthy"
+        },
+        {
+          "id": 5,
+          "name": "から、",
+          "kana": "から",
+          "romaji": "kara",
+          "meaning": "since"
+        },
+        {
+          "id": 6,
+          "name": "暑くて",
+          "kana": "あつくて",
+          "romaji": "atsu kute",
+          "meaning": "hot"
+        },
+        {
+          "id": 7,
+          "name": "みんな",
+          "kana": "みんな",
+          "romaji": "minna",
+          "meaning": "everyone"
+        },
+        {
+          "id": 8,
+          "name": "困っている",
+          "kana": "こまっている",
+          "romaji": "komttei",
+          "meaning": "worried"
+        },
+        {
+          "id": 9,
+          "name": "よ。",
+          "kana": "よ",
+          "romaji": "yo",
+          "meaning": "!?"
+        }
+      ]
     }
   ]
 }
